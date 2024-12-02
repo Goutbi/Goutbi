@@ -1,3 +1,5 @@
+![Github Banner](assets\banner_github.jpg)
+
 # About Me
 
 <keeping all line lenght error let me express myself>
