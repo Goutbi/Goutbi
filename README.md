@@ -3,21 +3,15 @@
 # About Me
 
 <!--keeping all line length error let me express myself-->
-I am a Mechanical Engineer with a strong background in renewable energy and heavy
-machinery,
-blending expertise in technical support, system optimization, and project management.
- I am deeply interested in machine learning, AI, data analysis, and algorithmic trading
- , aiming to innovate and create impactful solutions in these fields.
+I am a Mechanical Engineer with a strong background in renewable energy and heavy machinery, blending expertise in technical support, system optimization, and project management. I am deeply interested in machine learning, AI, data analysis, and algorithmic trading, aiming to innovate and create impactful solutions in these fields.
 
 ## My Goal
-
-To seamlessly combine data science with renewable energy and engine
-optimization, driving efficiency and sustainability.
+<!--keeping all line length error let me express myself-->
+To seamlessly combine data science with renewable energy and engine optimization, driving efficiency and sustainability.
 
 ## Career Summary
 <!--keeping all line length error let me express myself-->
-I have over six years of experience in power systems, heavy machinery,
-and renewable energy projects. My career highlights include providing technical support for Caterpillar power systems, managing procurement, and designing efficient solar PV systems tailored to residential and agricultural needs.
+I have over six years of experience in power systems, heavy machinery, and renewable energy projects. My career highlights include providing technical support for Caterpillar power systems, managing procurement, and designing efficient solar PV systems tailored to residential and agricultural needs.
 
 ## What I'm Working On
 
