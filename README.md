@@ -1,4 +1,4 @@
-![Github Banner](assets\banner_github.jpg)
+![Github Banner](assets/banner_github.jpg)
 
 # About Me
 
