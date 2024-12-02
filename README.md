@@ -29,9 +29,8 @@ I have over six years of experience in power systems, heavy machinery, and renew
 - **Project Management Tools**: MS Project, SAP  
 
 ## How to Reach Me
-
-- **Email**: <Agoutbi10@gmail.com>  
 <!--keeping all line length error the link is long-->
+- **Email**: <Agoutbi10@gmail.com>  
 - **LinkedIn**: [click here](https://www.linkedin.com/in/ahmed-isameldeen-goutbi-el-hassen-79140a192/)  
 - **GitHub**: You're already here.
 
