@@ -34,6 +34,4 @@ I have over six years of experience in power systems, heavy machinery, and renew
 - **LinkedIn**: [click here](https://www.linkedin.com/in/ahmed-isameldeen-goutbi-el-hassen-79140a192/)  
 - **GitHub**: You're already here.
 
-Thank you for visiting my profile. Feel free to explore and connect for collaborations.
-
-Test SSH
+Thank you for visiting my profile. Feel free to explore and connect for collaborations.git
