@@ -3,22 +3,30 @@
 # About Me
 
 <!--keeping all line length error let me express myself-->
-I am a Mechanical Engineer with a strong background in renewable energy and heavy machinery, blending expertise in technical support, system optimization, and project management. I am deeply interested in machine learning, AI, data analysis, and algorithmic trading, aiming to innovate and create impactful solutions in these fields.
+I am a Mechanical Engineer with a strong background in renewable energy and heavy
+machinery, blending expertise in technical support, system optimization, and project
+management. I am deeply interested in machine learning, AI, data analysis, and
+algorithmic trading, aiming to innovate and create impactful solutions in these fields.
 
 ## My Goal
 <!--keeping all line length error let me express myself-->
-To seamlessly combine data science with renewable energy and engine optimization, driving efficiency and sustainability.
+To seamlessly combine data science with renewable energy and engine optimization,
+driving efficiency and sustainability.
 
 ## Career Summary
 <!--keeping all line length error let me express myself-->
-I have over six years of experience in power systems, heavy machinery, and renewable energy projects. My career highlights include providing technical support for Caterpillar power systems, managing procurement, and designing efficient solar PV systems tailored to residential and agricultural needs.
+I have over six years of experience in power systems, heavy machinery, and renewable
+energy projects. My career highlights include providing technical support for Caterpillar
+power systems, managing procurement, and designing efficient solar PV systems tailored
+to residential and agricultural needs.
 
 ## What I'm Working On
 
 - Designing solar PV systems for sustainable energy solutions.
 - Managing and supervising major service contracts for heavy equipments.  
   <!--keeping all line length error let me express myself-->
-- Enhancing my skills in data science to optimize renewable energy and machinery performance.
+- Enhancing my skills in data science to optimize renewable energy and machinery
+   performance.
 - Testing data-driven algorithms for trading strategies.
 
 ## Skills
@@ -31,7 +39,8 @@ I have over six years of experience in power systems, heavy machinery, and renew
 ## How to Reach Me
 <!--keeping all line length error the link is long-->
 - **Email**: <Agoutbi10@gmail.com>  
-- **LinkedIn**: [click here](https://www.linkedin.com/in/ahmed-isameldeen-goutbi-el-hassen-79140a192/)  
+- **LinkedIn**:
+[click here](https://www.linkedin.com/in/ahmed-isameldeen-goutbi-el-hassen-79140a192/)  
 - **GitHub**: You're already here.
 
 Thank you for visiting my profile. Feel free to explore and connect for collaborations.git
